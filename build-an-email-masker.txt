@@ -2,30 +2,24 @@
 
 function maskEmail(email)
   {
-  /*const appendAtIndex = email.indexOf('@');
-  const userName = email.slice(0,appendAtIndex);
-  const domineName = email.slice(appendAtIndex);
- if(userName.lengeth <=1) return "*".repeat(userName.length)+ domineName;
-  const firstuserName = userName[0];
-  const lastuserName = userName[userName.length-1];
-  const starReplace = "*".repeat(userName.length-2);
-  email = firstuserName + starReplace + lastuserName+ domineName ;*/
   const appendAtIndex = email.indexOf('@');
+// reads the value of the "@" index value in the useremail
   const userName = email.slice(0,appendAtIndex);
+// slice the email and store the username from the email by using appendAtIndex
   const domineName = email.slice(appendAtIndex);
-//        if(userName.length>=2)
-  //           {
-    //              return "**"+domine;
-      //  /      }
-      const firstuserName = userName.slice(0,1);
-      const lastuserName = userName[userName.length-1];
-      const userNameLength = appendAtIndex-2;
+//slice the email and store tha domine value 
+      const firstuserName = userName.slice(0,1); 
+//slice the first first character from the username in email
+      const lastuserName = userName[userName.length-1]; 
+// store the value of username last character in email
+      const userNameLength = appendAtIndex-2; 
+//To store length of the username by excluding front characte and last character of the username in the email
       return firstuserName + "*".repeat(userNameLength) + lastuserName + domineName;
-      //return maskEmail(email);
-  
+       
   }
 
 let email ="usernameof2025@gmail.com";
+
 console.log(maskEmail(email));
 
 ** end of script.js **
