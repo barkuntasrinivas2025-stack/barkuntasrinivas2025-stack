@@ -1,148 +1,197 @@
-<h1 align="center">Srinivas Barkunta</h1>
-<h3 align="center">I don’t “learn coding”. I build, break, fix and ship software — every single day.</h3>
+<!-- ======================= DARK ENGINEERING PROFILE ======================= -->
+
+<h1 align="center">⚫ Srinivas Barkunta</h1>
+<h3 align="center">Builder • Debugger • Feature Shipper • Engineering in Public</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=barkuntasrinivas2025-stack&show_icons=true" />
-<img src="https://streak-stats.demolab.com?user=barkuntasrinivas2025-stack" />
+<img src="https://github-readme-stats.vercel.app/api?username=barkuntasrinivas2025-stack&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=barkuntasrinivas2025-stack&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=barkuntasrinivas2025-stack&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## ⚡ Engineering Mindset
+# ⚙️ ENGINEERING IDENTITY
 
-Most GitHub profiles are **archives of finished projects.**
-Mine is a **live engineering lab.**
+I am not documenting achievements.
+I am documenting **evolution.**
 
-* I push incomplete features
-* I commit debugging attempts
-* I refactor working code
-* I rewrite logic when I understand it deeper
+This GitHub represents:
 
-Because real software engineering is not clean.
-It is **iteration → failure → optimisation → delivery.**
+* How I think
+* How I fail
+* How I debug
+* How I rebuild logic
+* How I slowly become production capable
 
----
-
-## 📱 Android Engineering — Feature Driven Development
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/your-assets/android-flow.png" width="800"/>
-</p>
-
-What I actually engineered:
-
-* Authentication lifecycle handling
-* Navigation backstack destruction logic
-* Session persistence + logout safety
-* API loading / failure UI states
-* Compose based screen architecture
-
-I don’t just make screens.
-I make **flows that behave correctly under stress.**
+Most profiles show **final results.**
+Mine shows **engineering growth timeline.**
 
 ---
 
-## 🌐 API Integration — Real World Behaviour Handling
+# 🚀 WHAT I HAVE ACTUALLY BUILT
+
+## 📱 Android Authentication Engineering
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/your-assets/api-debug.png" width="800"/>
+<img src="https://raw.githubusercontent.com/your-assets/android-auth-dark.png" width="900"/>
 </p>
 
-* API tested before UI integration
-* Handles empty responses
-* Handles slow network
-* Handles invalid tokens
-* Focus on runtime failure patterns
+* Navigation stack destruction handling
+* Session lifecycle control
+* API-driven login flow
+* Runtime UI state management
+* Compose based architecture attempts
 
-Most freshers code for **happy paths.**
-I code for **broken production scenarios.**
+This is not UI cloning.
+This is **behaviour engineering.**
 
 ---
 
-## 🧠 Problem Solving Discipline
+## 🌐 REST API Integration Reality
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/your-assets/dsa.png" width="800"/>
+<img src="https://raw.githubusercontent.com/your-assets/api-runtime-dark.png" width="900"/>
 </p>
 
-* Daily implementation in C++
-* Bit manipulation understanding
-* Recursion thinking improvement
+What my repos prove:
+
+* Loading state discipline
+* Failure response handling
+* Token expiry scenarios
+* Data rendering without crashes
+* Debug-first implementation approach
+
+Freshers code features.
+I try to code **stability.**
+
+---
+
+## 🧠 DSA Thinking Journey
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/your-assets/dsa-growth-dark.png" width="900"/>
+</p>
+
+* Bit logic understanding
+* Recursion mental modelling
 * Time complexity awareness
-* Writing readable logic
+* Clean implementation attempts
+* Logic rewrite discipline
 
-Not chasing problem count.
-Chasing **thinking clarity.**
+I don’t chase problem numbers.
+I chase **clarity per problem.**
 
 ---
 
-## ⚙️ Stack I Actually Use
+# 📊 MY GITHUB = ENGINEERING TIMELINE
 
-**Languages**
+You can scroll my repos and literally observe:
+
+✅ Early messy commits
+✅ Feature experimentation
+✅ Refactoring waves
+✅ Architectural attempts
+✅ Debugging streaks
+✅ Consistency graph
+
+This shows:
+
+**Learning velocity > Static skill level**
+
+---
+
+# ⚡ STACK I AM ACTIVELY USING
+
+### Language Layer
 
 * Kotlin
 * C++
-* Basic Java
+* Java (Basic)
 
-**Engineering**
+### Android Layer
 
 * Jetpack Compose
 * Navigation
-* MVVM Thinking
-* REST API Integration
-* Session Management
+* ViewModel Thinking
+* State Handling
+* API Integration
 
-**Workflow**
+### Engineering Workflow
 
-* Git branching discipline
+* Git branching
 * Incremental commits
-* Markdown documentation
-* Debug-first development
+* Markdown technical logging
+* Debug session tracking
 
 ---
 
-## 📊 GitHub Usage Philosophy
+# 📈 PERSONAL ENGINEERING GROWTH
 
-* GitHub is not my portfolio.
-* GitHub is my **engineering diary.**
+From:
 
-You can see:
+* Writing tutorial-style code
+  To:
+* Writing behaviour-aware features
 
-* Feature evolution
-* Code rewrites
-* Mistake patterns
-* Improvement curve
+From:
 
-This shows **how I think — not just what I finished.**
+* Fear of debugging
+  To:
+* Intentionally breaking flows to understand system response
+
+From:
+
+* Random learning
+  To:
+* Goal-driven engineering discipline
 
 ---
 
-## 🧨 Current Gaps I Am Fixing
+# 🧨 WHAT I AM FIXING RIGHT NOW
 
-* No large modular Android app yet
+* No large scale modular project yet
+* Need backend depth
 * Need faster DSA execution
-* Need backend architecture depth
-* Need real team code review exposure
-* Need deployment experience
+* Need real production deployment exposure
+* Need team code review experience
 
-Ignoring these would make me average.
-Tracking them makes me dangerous.
-
----
-
-## 🎯 Target
-
-Software Engineer / Android Developer — Fresher
-
-I am ready to:
-
-* Own small features
-* Fix real bugs
-* Sit inside messy codebases
-* Learn production engineering
+These are not weaknesses.
+These are **active engineering missions.**
 
 ---
 
-## 📬 Connect
+# 🎯 TARGET
 
-GitHub → https://github.com/barkuntasrinivas2025-stack
+**Software Engineer / Android Developer — Fresher**
+
+Environment I want:
+
+* Real bugs
+* Real deadlines
+* Real code ownership
+* Real feedback
+
+---
+
+# ⚫ FINAL STATEMENT
+
+This profile is not built to impress at first glance.
+It is built so that **a real engineer scrolling for 2 minutes understands:**
+
+> “This guy is still raw — but he is dangerous because he is consistent.”
+
+---
+
+<p align="center">
+⚙️ Engineering in Public • Debugging in Public • Growing in Public  
+</p>
+
+<p align="center">
+GitHub → https://github.com/barkuntasrinivas2025-stack  
+</p>
+
+<!-- ======================= END ======================= -->
