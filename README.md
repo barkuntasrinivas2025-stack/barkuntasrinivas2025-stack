@@ -1,141 +1,77 @@
-<!-- ===================== ⚫ ADVANCED DARK ENGINEERING PROFILE ⚫ ===================== -->
+# ⚫ Srinivas Barkunta — Android Engineer (Fresher)
 
-<h1 align="center">Srinivas Barkunta</h1>
-<h3 align="center">Software Engineering Fresher • Android Builder • Debug Discipline Mindset</h3>
+**I don’t collect certificates. I ship features, break them, fix them, and make them stable.**  
+GitHub = my engineering lab. This profile shows the work, the failures, and the improvements — not polished marketing.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=barkuntasrinivas2025-stack&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img src="https://streak-stats.demolab.com?user=barkuntasrinivas2025-stack&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barkuntasrinivas2025-stack&theme=github-dark&hide_border=true"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkuntasrinivas2025-stack&layout=compact&theme=github_dark)](https://github.com/barkuntasrinivas2025-stack)
+[![Stats](https://github-readme-stats.vercel.app/api?username=barkuntasrinivas2025-stack&show_icons=true&theme=github_dark)](https://github.com/barkuntasrinivas2025-stack)
 
 ---
 
-# ⚡ ENGINEERING STATUS
-
-I am not presenting myself as an expert.
-I am presenting myself as an **engineer under construction who ships code consistently.**
-
-This GitHub is proof of:
-
-* Feature attempts
-* Debug sessions
-* Logic rewrites
-* Architecture learning
-* Engineering discipline growth
-
-Most freshers upload final code.
-I upload **thinking process + evolution.**
+# TL;DR (15s recruiter scan)
+- **Role:** Android Developer / Software Engineer (Fresher)  
+- **One-sentence:** I build Android features that survive bad networks and real users.  
+- **What to check (in order):** 1) Pinned app repo README → demo video / APK, 2) commits history (progress & bugfixes), 3) `docs/engineering-notes.md`, 4) issues & PRs (if any).
 
 ---
 
-# 🚀 FEATURE ENGINEERING WORK
-
-## 📱 Android Authentication Flow
-
-* Session Manager lifecycle handling
-* Navigation stack clearing logic
-* Compose UI state management
-* API login integration
-* Runtime behaviour debugging
-
-Focus → building flows that **do not break easily.**
+# What I actually do (not marketing)
+- Build feature-first Android apps using **Kotlin + Jetpack Compose**.  
+- Integrate and harden REST APIs (token expiry, slow networks, nulls).  
+- Ship and iterate: small incremental commits, focused refactors, and bug-first fixes.  
+- Document technical decisions (in-repo notes) so others can understand my changes.
 
 ---
 
-## 🌐 REST API Integration Practice
-
-* Loading & error UI states
-* Token expiry handling attempts
-* Null response safety
-* Debugging API failures before UI polishing
-
-Focus → understanding **real unstable network behaviour.**
+# Core Tech (recruiter friendly)
+- **Languages:** Kotlin (primary), Java (basic)  
+- **Android:** Jetpack Compose, ViewModel thinking, Navigation, Lifecycle, Room (local), Retrofit/OkHttp  
+- **Engineering:** Git (branching & small commits), Postman, Logging & Crash reporting basics, Basic unit tests / instrumentation attempts  
+- **Delivery:** APK releases / demo video, README with run instructions, simple CI (GitHub Actions) where possible
 
 ---
 
-## 🧠 Problem Solving (C++)
+# Pinned Projects (what to open first)
+> Each pinned repo MUST have: a short pitch, 1 min demo GIF/video link, clear install/run steps, and a `docs/engineering-notes.md` showing decisions & major bugs fixed.
 
-* Recursion logic implementation
-* Bit manipulation understanding
-* Complexity awareness
-* Clean rewrite discipline
+1. **Production-like Android App — _Auth & Offline Flow_**  
+   - Login/logout, session manager, token refresh handling, offline cache fallback, robust error UI.  
+   - Demo: [video / GIF] • APK in Releases • `docs/engineering-notes.md` explains tradeoffs.
 
-Focus → improving **thinking speed + logic clarity.**
+2. **Feature Repo — _Network Failure Engine_**  
+   - App or module that intentionally simulates network failures and shows how UI and retry strategies behave.  
+   - Shows you understand unstable networks and mitigation.
 
----
+3. **API Client & Integration Tests**  
+   - Small repo showing Retrofit setups, interceptors (auth, logging), Postman collection, and sample unit tests for API parsing.
 
-# 📊 ENGINEERING HABITS
-
-* Daily commits when building
-* Refactoring working code intentionally
-* Writing markdown notes inside repos
-* Experimenting with feature structure
-* Breaking and rebuilding navigation logic
-
-GitHub for me = **engineering lab notebook.**
+4. **Engineering Notebook**  
+   - `docs/` with dated entries: design decisions, bug timelines, screenshots, commit excerpts (“why I reverted”), and a short roadmap.
 
 ---
 
-# ⚙️ STACK
-
-**Languages**
-Kotlin • C++ • Basic Java
-
-**Android**
-Jetpack Compose • Navigation • ViewModel Thinking • REST API
-
-**Workflow**
-Git • GitHub • Postman • Android Studio • VS Code
+# How recruiters should evaluate me (what matters)
+- **Does the app run?** (APK/demo link)  
+- **Are failures handled?** (token expiry, slow/empty responses)  
+- **Are commits meaningful?** (not one huge dump — prefer many small commits with messages)  
+- **Is there an engineer’s note?** (shows the thought process)  
+- **Is there a visible improvement curve?** (early messy commit → cleanup → feature polish)
 
 ---
 
-# 📈 GROWTH TRACK
-
-Earlier:
-
-* Tutorial dependency
-* Fear of debugging
-* Random coding
-
-Now:
-
-* Feature ownership attempts
-* Intentional debugging
-* Structured learning path
-
-Next:
-
-* Modular Android project
-* Backend integration depth
-* Deployment exposure
-* Team collaboration simulation
+# What I want (roles I’ll own day 1)
+- Small feature ownership (auth flows, API integrations)  
+- Fixing production crashes & flaky network issues  
+- Shipping weekly small improvements and patches
 
 ---
 
-# 🎯 TARGET ROLE
-
-Software Engineer / Android Developer (Fresher)
-
-I want environments where I can:
-
-* Fix real bugs
-* Deliver small features
-* Learn production engineering discipline
+# Contact / Resume
+- GitHub: https://github.com/barkuntasrinivas2025-stack  
+- Email: `your.email@example.com` ← replace with real email  
+- Resume: `resume_Srinivas_Barkunta.pdf` (link in repo or Releases)
 
 ---
 
-# 📬
-
-GitHub → https://github.com/barkuntasrinivas2025-stack
-
-<p align="center">
-Consistency > Motivation  
-Building > Watching  
-Engineering > Pretending  
-</p>
-
-<!-- ================
+### Final note
+If you want to judge me fast: open the **pinned app** → run the APK or watch the demo → open `docs/engineering-notes.md` and the commit history. If those three are honest, we can talk.
