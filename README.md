@@ -1,161 +1,119 @@
-<!-- GitHub Profile README — Barkunta Srinivas -->
-<!-- This file lives at: github.com/barkuntasrinivas2025-stack/barkuntasrinivas2025-stack/README.md -->
+<img src="https://komarev.com/ghpvc/?username=barkuntasrinivas2025-stack&style=flat&color=0a66c2&label=Profile+Views" align="right" />
 
-<h1 align="center">Hey, I'm Srinivas 👋</h1>
+# Srinivas Barkunta
 
-<p align="center">
-  <em>Software Developer from Hyderabad · Building toward my first MNC SDE role · Long-term: AI/ML Engineer</em>
-</p>
+**Software Engineer** — Full-Stack · Android · Python  
+Hyderabad, India · Open to SDE Roles @ Product Companies
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srinivasbarkunta-335b85255">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://barkunta-srinivasprotfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/SrinivasBarkunta_2025">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=barkuntasrinivas2025-stack&style=flat&color=grey" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-barkunta-335b85255/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://barkunta-srinivasprotfolio.netlify.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SrinivasBarkunta_2025)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:srnivasbarkuntu11@gmail.com)
 
 ---
 
-## Who I am
+## What I Build
 
-I'm a final-year BTech IT student from Hyderabad who builds things seriously.
+I build production-grade software — full-stack web apps and Android applications — with a focus on clean architecture, real deployment, and systems that handle real users.
 
-Not a tutorial follower. Not a certificate collector.  
-Someone who architects Android apps with offline-first data layers, ships features on live products, and is currently grinding 360 DSA problems to crack a FAANG SDE interview.
-
-Right now I'm working as an **Application Developer at Vahtook Private Limited** — delivering cross-platform features, writing PostgreSQL schema migrations, and making full-stack architecture decisions on a real product used by real customers.
-
-My long game is **AI/ML Engineering**. But I know that getting there on a solid foundation — real SDE experience, system design thinking, production discipline — is the right path. So that's what I'm building first.
+Currently working as an **Application Developer at Vahtook Pvt. Ltd.** shipping features on a live product while building toward my first SDE role at a product company.
 
 ---
 
-## What I'm doing right now
+## Shipped Projects
 
-```
-▶  Application Developer @ Vahtook Private Limited (remote, live product)
-▶  90-day FAANG DSA sprint — 360 problems in Python (Day 1 of 90)
-▶  Building 4 portfolio projects — 3 SDE + 1 AI/ML
-▶  2-week Python fundamentals plan (transitioning from Kotlin/JS to Python)
-▶  Target: First paid MNC SDE role within 90 days
-```
+### [AI Productivity Weekly](https://newsletter-frontend1.netlify.app) — Live
+> Full-stack newsletter platform · Sole developer · Real subscribers
 
----
+| Layer | Tech |
+|---|---|
+| Frontend | React · Netlify |
+| Backend | Node.js · Express · Render |
+| Database | PostgreSQL · Supabase |
+| Auth | JWT-secured admin system |
+| Email | Brevo — automated confirmation + welcome flow |
 
-## What I've built
-
-### 📦 E-Commerce Android App
-> Kotlin · Jetpack Compose · MVVM · Clean Architecture · Room · Retrofit
-
-A production-like Android shopping app with an offline-first data layer.
-Not a tutorial clone — architected from scratch with Clean Architecture, timestamp-based cache sync, structured concurrency, and retry logic.
-
-- Reduced initial load time **30%** via pagination
-- Reduced redundant API calls **25%** via local caching + indexing
-- Zero UI crashes — all async operations handled with Kotlin Coroutines
+Built the entire system from scratch. Not a template. Not a tutorial clone.
 
 ---
 
-### 🗂 Task Management Backend
-> Java · REST API · Multi-tiered Layered Architecture
+### [Android Auth App](https://github.com/barkuntasrinivas2025-stack/tryitonce)
+> Kotlin · Firebase Auth · MVVM · Jetpack Compose · DataStore · Hilt
 
-A backend microservice built from scratch — CRUD, user isolation, concurrent request handling, and structured error responses for every edge case.
-
----
-
-### 🔐 Android Auth System
-> Kotlin · Firebase · DataStore · MVVM
-
-End-to-end authentication with session persistence, credential failure handling, and zero UI thread blocking.
+- Secure login and registration with Firebase Authentication
+- MVVM architecture — clean separation of UI, logic, and data
+- Persistent session management via DataStore
+- Clean Architecture throughout
 
 ---
 
-## Where I'm going
+### [E-Commerce Android App](https://github.com/barkuntasrinivas2025-stack/E-Commerce-Mobile-App)
+> Kotlin · Jetpack Compose · Retrofit · Room · Clean Architecture
 
-```
-Phase 1 (now → 90 days)   →  Land paid SDE role at MNC
-Phase 2 (while working)   →  Learn AI/ML on the side — Python, ML fundamentals, LLMs
-Phase 3 (1–2 years)       →  Transition to AI/ML Engineer role
-```
-
-I'm not rushing Phase 2. I know the difference between someone who watched ML videos and someone who understands systems deeply enough to build ML infrastructure. I want to be the second kind.
+- Offline-first data layer with timestamp-based cache sync
+- Pagination reducing initial load time by 30%
+- Local caching reducing redundant API calls by 25%
+- Structured concurrency with Kotlin Coroutines — zero UI thread blocking
 
 ---
 
-## Tech I work with
+## Stack
 
 ```python
-languages   = ["Python", "Kotlin", "JavaScript", "TypeScript", "Java", "C++"]
-android     = ["Jetpack Compose", "MVVM", "Room", "DataStore", "Coroutines", "Retrofit"]
-backend     = ["Node.js", "REST APIs", "PostgreSQL", "Firebase", "Schema Migrations"]
-data        = ["Apache Spark", "Databricks", "Spark SQL", "DataFrames"]
-cloud       = ["AWS (EC2, S3, Lambda, DynamoDB)", "Azure AI", "Firebase"]
-tools       = ["Git", "GitHub Actions", "Android Studio", "VS Code"]
-currently_learning = ["Python DSA", "System Design", "Applied ML"]
+languages   = ["Python", "JavaScript", "TypeScript", "Kotlin", "SQL"]
+frontend    = ["React", "Jetpack Compose", "HTML", "CSS"]
+backend     = ["Node.js", "Express", "REST APIs"]
+database    = ["PostgreSQL", "Supabase", "Firebase", "Room"]
+android     = ["MVVM", "Clean Architecture", "DataStore", "Hilt", "Coroutines", "Retrofit"]
+data        = ["Apache Spark", "Databricks", "Spark SQL"]
+tools       = ["Git", "Postman", "Android Studio", "VS Code"]
 ```
 
 ---
 
-## DSA progress
+## DSA
 
-I'm working through a structured 90-session, 360-problem FAANG preparation list in Python.  
-Topics: Arrays → Graphs → DP → Backtracking → Tries → System Design
+Actively solving problems in Python — arrays, trees, graphs, dynamic programming, backtracking.  
+200+ problems solved across LeetCode and HackerRank.  
+Progress tracked in [`python-learning-journey`](https://github.com/barkuntasrinivas2025-stack/python-learning-journey).
 
-- **200+** problems solved so far (LeetCode + HackerRank)
-- Consistent daily practice — check my commit history
-- Full problem list and progress tracked in my [python-learning-journey](https://github.com/barkuntasrinivas2025-stack/python-learning-journey) repo
+---
+
+## ML Direction
+
+My long-term path is **SWE → ML Engineer**.
+
+Foundation already in place:
+- Databricks Generative AI Fundamentals certified
+- Azure AI Concepts — Microsoft Learn
+- Hands-on with Apache Spark and Databricks for distributed data processing
+- AI/ML project in Python currently in active development
+
+I'm building the engineering foundation first — production discipline, system design, data systems — before moving into applied ML. That's the right order.
 
 ---
 
 ## Certifications
 
-- 🟠 Databricks Generative AI Fundamentals
-- 🔵 Azure AI Concepts — Microsoft Learn  
-- 🟢 Frontend Development — Coursera
-- ⚫ Claude Code in Action — Anthropic
-- 🍎 iOS & Swift — Complete App Development Bootcamp
+| Certification | Issuer |
+|---|---|
+| Databricks Generative AI Fundamentals | Databricks |
+| Azure AI Concepts | Microsoft |
+| Claude Code in Action | Anthropic |
+| iOS & Swift — Complete App Development | Udemy |
+| Frontend for Java Full Stack | Coursera |
 
 ---
 
-## One thing I believe
-
-Most freshers are optimizing for the wrong thing.  
-They chase the certificate, the LeetCode count, the resume keyword.
-
-I'm optimizing for **understanding** — why systems break at scale, why architecture decisions matter, what it actually means to own a feature end to end.
-
-That's the difference between someone who gets the job and someone who keeps it.
-
----
-
-## Let's connect
-
-If you're hiring, collaborating, or on a similar journey — reach out.
-
-<p>
-  <a href="https://www.linkedin.com/in/srinivasbarkunta-335b85255">LinkedIn</a> ·
-  <a href="https://barkunta-srinivasprotfolio.netlify.app">Portfolio</a> ·
-  <a href="mailto:barkuntasrinivas2025@gmail.com">Email</a>
-</p>
-
----
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barkuntasrinivas2025-stack&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkuntasrinivas2025-stack&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barkuntasrinivas2025-stack&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barkuntasrinivas2025-stack&show_icons=true&hide_border=true&count_private=true&title_color=0a66c2&icon_color=0a66c2&text_color=333333&bg_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkuntasrinivas2025-stack&layout=compact&hide_border=true&title_color=0a66c2&text_color=333333&bg_color=ffffff" height="150" />
 </p>
 
 ---
 
-<p align="center">
-  <em>"The commit history is the truth. Everything else is documentation."</em>
-</p>
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/srinivas-barkunta-335b85255/) · [Portfolio](https://barkunta-srinivasprotfolio.netlify.app) · [Email](mailto:srnivasbarkuntu11@gmail.com)
