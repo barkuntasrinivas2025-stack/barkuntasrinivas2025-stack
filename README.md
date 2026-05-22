@@ -107,10 +107,8 @@ I'm building the engineering foundation first — production discipline, system 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barkuntasrinivas2025-stack&show_icons=true&hide_border=true&count_private=true&title_color=0a66c2&icon_color=0a66c2&text_color=333333&bg_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkuntasrinivas2025-stack&layout=compact&hide_border=true&title_color=0a66c2&text_color=333333&bg_color=ffffff" height="150" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/barkuntasrinivas2025-stack?style=flat&color=0a66c2)
+![GitHub stars](https://img.shields.io/github/stars/barkuntasrinivas2025-stack?style=flat&color=0a66c2)
 
 ---
 
