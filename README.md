@@ -6,7 +6,7 @@
 Hyderabad, India · Open to SDE Roles @ Product Companies
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-barkunta-335b85255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://barkunta-srinivasprotfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://barkunta-srinivas-protfolio.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SrinivasBarkunta_2025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:srnivasbarkuntu11@gmail.com)
 
