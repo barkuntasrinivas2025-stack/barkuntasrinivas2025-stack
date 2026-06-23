@@ -1,156 +1,158 @@
-<img src="https://komarev.com/ghpvc/?username=barkuntasrinivas2025-stack&style=flat&color=0a66c2&label=Profile+Views" align="right" />
+<div align="center">
 
-# Srinivas Barkunta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1a1a1a&height=200&section=header&text=Srinivas%20Barkunta&fontSize=48&fontColor=FFB800&fontAlignY=38&desc=Software%20Development%20Engineer%20%E2%80%94%20Full-Stack%20%C2%B7%20Android%20%C2%B7%20Real-Time%20Systems&descAlignY=58&descSize=16&descColor=F8F9FA&animation=fadeIn" width="100%"/>
 
-**Software Development Engineer** — React · Node.js · TypeScript · PostgreSQL · Kotlin
-Hyderabad, India · Open to SDE Roles @ Product Companies & MNCs · Immediate Joiner
+<p>
+<img src="https://img.shields.io/badge/📍_Hyderabad,_India-0D0D0D?style=flat-square&labelColor=0D0D0D&color=0D0D0D"/>
+<img src="https://img.shields.io/badge/●_Open_to_SDE_Roles-0D0D0D?style=flat-square&labelColor=0D0D0D&color=FFB800"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-barkunta-335b85255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://barkunta-srinivas-portfolio.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SrinivasBarkunta_2025)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:barkuntasrinivas2025@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/srinivas-barkunta-335b85255/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFB800"/></a>
+<a href="https://barkunta-srinivas-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=netlify&logoColor=FFB800"/></a>
+<a href="https://leetcode.com/u/SrinivasBarkunta_2025"><img src="https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FFB800"/></a>
+<a href="mailto:barkuntasrinivas2025@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFB800"/></a>
+</p>
 
----
+<br/>
 
-## What I Build
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&width=600&height=30&lines=Shipping+features+on+a+live+product+at+Vahtook;Building+production-grade+full-stack+%2B+Android+systems;Open+to+SDE+roles+at+product+companies+%26+MNCs" /></a>
 
-I build production-grade software — full-stack web apps, real-time systems, and Android applications — with a focus on clean architecture, real deployment, and systems that handle real users.
+<br/><br/>
 
-Currently working as an **Application Developer at Vahtook Pvt. Ltd.**, shipping features on a live multi-service product serving 1,000+ active users, while targeting my first SDE role at a product company or MNC.
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,postgres,kotlin,java,python,firebase,androidstudio,aws,vercel,git&theme=dark" />
 
----
+</div>
 
-## Shipped Projects
+<br/>
 
-### Multi-User Task Management System — Live
-> Real-time collaborative board · React 18 · Node.js · Neon PostgreSQL · Socket.io
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,100:0D0D0D&height=2&section=header" width="100%"/>
 
-| Layer | Tech |
-|---|---|
-| Frontend | React 18 · Vercel |
-| Backend | Node.js · Express · Render |
-| Database | Neon Serverless PostgreSQL · Drizzle ORM |
-| Realtime | Socket.io WebSocket rooms |
-| Auth | JWT · bcrypt (12-round) · UUID invite links |
+## About
 
-- Real-time WebSocket sync — 100% instant updates across simultaneous sessions, zero data loss
-- Soft-delete across all entities for full data recoverability and audit trail
-- Sub-200ms API response times, 99.9% uptime across a 3-service serverless deployment
+Full-stack and Android engineer. Currently an **Application Developer at Vahtook Pvt. Ltd.**, shipping features on a live multi-service product serving 1,000+ active users.
 
----
+<br/>
 
-### AI Productivity Weekly — Live
-> Full-stack newsletter platform · Sole developer · Real subscribers
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,100:0D0D0D&height=2&section=header" width="100%"/>
 
-| Layer | Tech |
-|---|---|
-| Frontend | React · Netlify |
-| Backend | Node.js · Express · Render |
-| Database | PostgreSQL · Supabase |
-| Auth | JWT-secured admin system |
-| Email | Brevo — automated confirmation + welcome flow |
+## Projects
 
-Built the entire system from scratch as sole developer — frontend, backend, database, and deployment.
+<table width="100%">
+<tr>
+<th width="50%" align="left">⚡ Multi-User Task Management System</th>
+<th width="50%" align="left">📰 AI Productivity Weekly</th>
+</tr>
+<tr>
+<td valign="top">
 
----
+Real-time collaborative task board
 
-### Personal Budget Tracker — Live
-> React 18 · TypeScript · Tailwind CSS · localStorage
+<sub>`React 18` `Node.js` `Neon PostgreSQL` `Socket.io` `Drizzle ORM`</sub>
 
-- O(1) expense auto-categorization using a keyword reverse-index — eliminates manual category selection
-- CSV export via native Blob API — zero third-party dependencies
-- Monthly budget goals with real-time overspend alerts, INR currency formatting
+- WebSocket rooms for instant multi-user sync, zero data loss
+- JWT auth with bcrypt (12-round), UUID invite links
+- Soft-delete across all entities — full audit trail
+- Sub-200ms API response across a 3-service deployment
 
----
+**[↗ Live](#)** &nbsp;·&nbsp; **[↗ GitHub](#)**
 
-### [E-Commerce Android Application](https://github.com/barkuntasrinivas2025-stack/E-Commerce-Mobile-App)
-> Kotlin · Jetpack Compose · MVVM · Clean Architecture · Room · Retrofit · Coroutines
+</td>
+<td valign="top">
 
-- Offline-first data layer with timestamp-based cache synchronization
-- Pagination reducing initial API payload by 30%
-- Room caching reducing redundant network calls by 25%
-- Kotlin Coroutines — zero UI thread blocking, full error/loading/retry state handling
+Full-stack newsletter platform — sole developer
 
----
+<sub>`React` `Node.js` `Express` `Supabase` `JWT` `Brevo`</sub>
 
-### [Android Authentication System](https://github.com/barkuntasrinivas2025-stack/tryitonce)
-> Kotlin · Firebase Auth · MVVM · DataStore
+- End-to-end build: frontend, backend, database, deployment
+- Automated email confirmation + welcome flow via Brevo
+- Live with active subscribers
 
-- Firebase Authentication with MVVM cleanly decoupling auth logic from UI
-- Interface-driven design for testability and provider swap-ability
-- Async session persistence via DataStore — handles expiry, credential failures, network edge cases
+**[↗ Live](https://newsletter-frontend1.netlify.app)**
 
----
+</td>
+</tr>
+<tr>
+<th width="50%" align="left">🛒 E-Commerce Android App</th>
+<th width="50%" align="left">💰 Personal Budget Tracker</th>
+</tr>
+<tr>
+<td valign="top">
+
+<sub>`Kotlin` `Jetpack Compose` `MVVM` `Clean Architecture`</sub>
+
+- Offline-first data layer, timestamp-based cache sync
+- Pagination — 30% smaller initial payload
+- Room caching — 25% fewer redundant network calls
+
+**[↗ GitHub](https://github.com/barkuntasrinivas2025-stack/E-Commerce-Mobile-App)**
+
+</td>
+<td valign="top">
+
+<sub>`React 18` `TypeScript` `Tailwind` `localStorage`</sub>
+
+- O(1) expense auto-categorization via keyword reverse-index
+- CSV export via native Blob API — no dependencies
+- Monthly budget goals, real-time overspend alerts
+
+**[↗ Live](#)**
+
+</td>
+</tr>
+</table>
+
+**🔐 Android Authentication System** — <sub>`Kotlin` `Firebase Auth` `MVVM` `DataStore`</sub>
+Interface-driven auth design, async session persistence via DataStore. **[↗ GitHub](https://github.com/barkuntasrinivas2025-stack/tryitonce)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,100:0D0D0D&height=2&section=header" width="100%"/>
 
 ## Stack
 
-```python
-languages   = ["JavaScript", "TypeScript", "Python", "Kotlin", "Java", "SQL", "C++"]
-frontend    = ["React 18", "Tailwind CSS", "Jetpack Compose", "HTML5", "CSS3"]
-backend     = ["Node.js", "Express.js", "REST APIs", "Socket.io", "JWT", "Drizzle ORM", "Retrofit"]
-database    = ["PostgreSQL", "Neon Serverless", "Supabase", "Firebase", "Room", "SQL Migrations"]
-android     = ["MVVM", "Clean Architecture", "DataStore", "Hilt", "Coroutines"]
-cloud       = ["AWS (EC2, S3, Lambda, DynamoDB)", "Vercel", "Render", "Netlify"]
-data        = ["Apache Spark", "Databricks", "Spark SQL"]
-tools       = ["Git", "GitHub", "Agile", "Scrum", "Postman"]
-```
+<table width="100%">
+<tr><td width="16%"><b>Languages</b></td><td>JavaScript · TypeScript · Python · Kotlin · Java · SQL · C++</td></tr>
+<tr><td><b>Frontend</b></td><td>React 18 · Tailwind CSS · Jetpack Compose</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js · Express · REST APIs · Socket.io · JWT · Drizzle ORM</td></tr>
+<tr><td><b>Database</b></td><td>PostgreSQL · Neon · Supabase · Firebase · Room</td></tr>
+<tr><td><b>Android</b></td><td>MVVM · Clean Architecture · Hilt · Coroutines</td></tr>
+<tr><td><b>Cloud</b></td><td>AWS (EC2 · S3 · Lambda · DynamoDB) · Vercel · Render · Netlify</td></tr>
+</table>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,100:0D0D0D&height=2&section=header" width="100%"/>
 
 ## Experience
 
-**Application Developer** — Vahtook Pvt. Ltd. · Remote · *May 2026 – Present*
-- Delivered 10+ cross-platform UI features using React.js, maintaining feature parity across web and iOS within Agile sprint cycles on a live multi-service codebase
-- Authored 5+ PostgreSQL schema migrations and optimized SQL queries, reducing endpoint response latency by 20%
-- Contributed to 3+ architecture discussions across frontend, REST API, and database layers on a product serving 1,000+ active users
+**Application Developer** — Vahtook Pvt. Ltd. · Remote <sub>🕐 May 2026 – Present</sub>
+- Delivered 10+ cross-platform UI features in React, maintaining feature parity across web and iOS within Agile sprints
+- Authored 5+ PostgreSQL schema migrations, reducing endpoint response latency by 20%
+- Contributed to architecture decisions across frontend, REST API, and database layers on a product serving 1,000+ active users
 
-**Full Stack Developer Intern** — Azentrix Digital Services · Remote · *Jun 2026*
-- Independently scoped, built, and released 2 web applications within 30 days under a zero-mentorship, performance-based evaluation
+**Full Stack Developer Intern** — Azentrix Digital Services · Remote <sub>🕐 Jun 2026</sub>
+- Independently scoped, built, and released 2 web applications within 30 days, zero mentorship
 
-**Web Developer Intern** — Gnanadhara Foundation NGO · Hyderabad · *Jun 2023 – Aug 2023*
-- Built 3+ responsive pages for a live NGO website, fixed critical mobile layout bugs improving cross-device usability
+**Web Developer Intern** — Gnanadhara Foundation NGO · Hyderabad <sub>🕐 Jun – Aug 2023</sub>
+- Built responsive pages for a live NGO website, fixed mobile layout bugs
 
----
+<br/>
 
-## DSA
-
-Actively solving problems in Python — arrays, trees, graphs, dynamic programming, backtracking.
-200+ problems solved across LeetCode and HackerRank.
-
----
-
-## ML Direction
-
-My long-term path is **SWE → ML Engineer**.
-
-Foundation already in place:
-- Databricks Generative AI Fundamentals — certified
-- Azure AI Concepts — Microsoft Learn
-- Hands-on with Apache Spark and Databricks for distributed data processing
-
-Building the engineering foundation first — production systems, real-time architecture, data layers — before moving into applied ML. That's the right order.
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,100:0D0D0D&height=2&section=header" width="100%"/>
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| Databricks Generative AI Fundamentals | Databricks |
-| Azure AI Concepts | Microsoft |
-| Claude Code in Action | Anthropic |
-| iOS & Swift — Complete App Development | Udemy |
-| Frontend Development | Coursera |
+`🏅 Databricks Generative AI Fundamentals`  `🏅 Azure AI Fundamentals — Microsoft`
 
----
+<br/>
 
-## GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0D0D0D&height=120&section=footer&animation=fadeIn"/>
 
-![GitHub followers](https://img.shields.io/github/followers/barkuntasrinivas2025-stack?style=flat&color=0a66c2)
-![GitHub stars](https://img.shields.io/github/stars/barkuntasrinivas2025-stack?style=flat&color=0a66c2)
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/srinivas-barkunta-335b85255/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=FFB800"/></a>
+<a href="https://barkunta-srinivas-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=flat-square&logo=netlify&logoColor=FFB800"/></a>
+<a href="mailto:barkuntasrinivas2025@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=FFB800"/></a>
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/srinivas-barkunta-335b85255/) · [Portfolio](https://barkunta-srinivas-portfolio.netlify.app/) · [Email](mailto:barkuntasrinivas2025@gmail.com)
+</div>
